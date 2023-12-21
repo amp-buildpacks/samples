@@ -30,7 +30,7 @@ A collection of sample applications that can be built using Amphitheatre Buildpa
 
 - [Sui](/move/sui)
 
-### Solana
+### Rust
 ### Solidity
 
 ## Testing Samples
