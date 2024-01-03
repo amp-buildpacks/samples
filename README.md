@@ -25,13 +25,19 @@ A collection of sample applications that can be built using Amphitheatre Buildpa
 ## Samples
 
 ### Cairo
+
 - [Starknet](/cairo/starknet)
+
 ### Leo
+
 ### Move
 
 - [Sui](/move/sui)
 
 ### Rust
+
+- [Solana (Native)](/rust/solana)
+
 ### Solidity
 
 ## Testing Samples
