@@ -40,6 +40,8 @@ A collection of sample applications that can be built using Amphitheatre Buildpa
 
 ### Solidity
 
+- [Hardhat](/solidity/hardhat)
+
 ## Testing Samples
 
 To run integration tests that `pack build` each of the sample apps, use
