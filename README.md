@@ -41,6 +41,7 @@ A collection of sample applications that can be built using Amphitheatre Buildpa
 ### Solidity
 
 - [Hardhat](/solidity/hardhat)
+- [Foundry](/solidity/foundry)
 
 ## Testing Samples
 
