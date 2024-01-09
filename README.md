@@ -30,6 +30,8 @@ A collection of sample applications that can be built using Amphitheatre Buildpa
 
 ### Leo
 
+- [snarkVM](/leo/snarkvm)
+
 ### Move
 
 - [Sui](/move/sui)
