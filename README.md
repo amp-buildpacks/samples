@@ -35,6 +35,7 @@ A collection of sample applications that can be built using Amphitheatre Buildpa
 ### Move
 
 - [Sui](/move/sui)
+- [Aptos](/move/aptos)
 
 ### Rust
 
