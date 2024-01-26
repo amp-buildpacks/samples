@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-todolist_addr='9ff976bbb19bb08a3d58e2803c0152b1a59a194438ecb6e86a34158aadce1d5e'
+todolist_addr='<YOUR_ADDRESS>'
 
 [dev-addresses]
 
