@@ -6,7 +6,7 @@
 
 ```toml
 [addresses]
-todolist_addr='<YOUR-ACCOUNT>'
+hello_blockchain='<YOUR-ACCOUNT>'
 ```
 
 ## Building
