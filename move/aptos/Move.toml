@@ -1,10 +1,10 @@
 [package]
-name = "my_todo_list"
+name = "hello_blockchain"
 version = "1.0.0"
 authors = []
 
 [addresses]
-todolist_addr='<YOUR_ADDRESS>'
+hello_blockchain='<YOUR-ACCOUNT>'
 
 [dev-addresses]
 

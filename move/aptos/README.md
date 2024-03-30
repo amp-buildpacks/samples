@@ -6,7 +6,7 @@
 
 ```toml
 [addresses]
-todolist_addr='<YOUR_ADDRESS>'
+hello_blockchain='<YOUR-ACCOUNT>'
 ```
 
 ## Building
@@ -18,7 +18,7 @@ pack build aptos-sample --buildpack amp-buildpacks/aptos
 ## Running
 
 ```bash
-docker run --it aptos-sample
+docker run -u 1001:cnb --it aptos-sample
 ```
 
 ## Credits
