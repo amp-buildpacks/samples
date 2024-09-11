@@ -46,6 +46,10 @@ A collection of sample applications that can be built using Amphitheatre Buildpa
 - [Hardhat](/solidity/hardhat)
 - [Foundry](/solidity/foundry)
 
+### Sway
+
+- [Sway](/sway)
+
 ## Testing Samples
 
 To run integration tests that `pack build` each of the sample apps, use
