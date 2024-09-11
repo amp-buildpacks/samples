@@ -48,7 +48,7 @@ A collection of sample applications that can be built using Amphitheatre Buildpa
 
 ### Sway
 
-- [Sway](/sway)
+- [Fuel](/sway/fuel)
 
 ## Testing Samples
 
